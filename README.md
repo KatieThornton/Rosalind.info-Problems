@@ -8,3 +8,4 @@ INI2 | Variables and Some Arithmetic | How to print results and complete basic a
 INI3 | Strings and Lists | Slicing
 INI4 | Conditions and Loops | 'if' statements 
 INI5 | Working with Files | Reading and writing files
+INI6 | Dictionaries | Using dictionaries to store information
