@@ -9,3 +9,7 @@ INI3 | Strings and Lists | Slicing
 INI4 | Conditions and Loops | 'if' statements 
 INI5 | Working with Files | Reading and writing files
 INI6 | Dictionaries | Using dictionaries to store information
+
+Bioinformatics Stronghold:
+ID | Name | Concepts Learnt 
+DNA | Counting DNA Nucleotides | applying basic python skills to a biology problem, 'elif' statments
