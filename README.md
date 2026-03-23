@@ -12,4 +12,5 @@ INI6 | Dictionaries | Using dictionaries to store information
 
 Bioinformatics Stronghold:
 ID | Name | Concepts Learnt 
-DNA | Counting DNA Nucleotides | applying basic python skills to a biology problem, 'elif' statments
+DNA | Counting DNA Nucleotides | Applying basic python skills to a biology problem, 'elif' statments
+RNA | Transcribing DNA into RNA | Replacing characters, the difference between coding and template strands 
