@@ -14,3 +14,4 @@ Bioinformatics Stronghold:
 ID | Name | Concepts Learnt 
 DNA | Counting DNA Nucleotides | Applying basic python skills to a biology problem, 'elif' statments
 RNA | Transcribing DNA into RNA | Replacing characters, the difference between coding and template strands 
+REVC | Complementing a Strand of DNA | 1-1 mapping, reversing a sequence, antiparallel DNA binding
