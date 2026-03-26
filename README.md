@@ -3,7 +3,7 @@ This repository contains my solutions to the python bioinformatic challenges ava
 
 Python Village:
 ID | Name | Concepts Learnt
-INI1 | Installing Python | How to run python
+INI1 | Installing Python | How to run python 
 INI2 | Variables and Some Arithmetic | How to print results and complete basic arithmetic
 INI3 | Strings and Lists | Slicing
 INI4 | Conditions and Loops | 'if' statements 
@@ -15,3 +15,4 @@ ID | Name | Concepts Learnt
 DNA | Counting DNA Nucleotides | Applying basic python skills to a biology problem, 'elif' statments
 RNA | Transcribing DNA into RNA | Replacing characters, the difference between coding and template strands 
 REVC | Complementing a Strand of DNA | 1-1 mapping, reversing a sequence, antiparallel DNA binding
+FIB | Rabbits and Recurrence Relations | Indentaion for loops, dynamic programming, recurrence relations
