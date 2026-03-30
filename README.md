@@ -16,3 +16,4 @@ DNA | Counting DNA Nucleotides | Applying basic python skills to a biology probl
 RNA | Transcribing DNA into RNA | Replacing characters, the difference between coding and template strands 
 REVC | Complementing a Strand of DNA | 1-1 mapping, reversing a sequence, antiparallel DNA binding
 FIB | Rabbits and Recurrence Relations | Indentaion for loops, dynamic programming, recurrence relations
+GC | Computing GC Content | Comparison loops, significant figurers
