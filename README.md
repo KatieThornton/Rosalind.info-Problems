@@ -17,3 +17,4 @@ RNA | Transcribing DNA into RNA | Replacing characters, the difference between c
 REVC | Complementing a Strand of DNA | 1-1 mapping, reversing a sequence, antiparallel DNA binding
 FIB | Rabbits and Recurrence Relations | Indentaion for loops, dynamic programming, recurrence relations
 GC | Computing GC Content | Comparison loops, significant figurers
+HAMM | Counting Point Mutations | Zip function, Hamming distance, parsimony 
