@@ -11,7 +11,7 @@ INI5 | Working with Files | Reading and writing files
 INI6 | Dictionaries | Using dictionaries to store information
 
 Bioinformatics Stronghold:
-ID | Name | Concepts Learnt 
+ID | Name | Concepts Learnt / Used
 DNA | Counting DNA Nucleotides | Applying basic python skills to a biology problem, 'elif' statments
 RNA | Transcribing DNA into RNA | Replacing characters, the difference between coding and template strands 
 REVC | Complementing a Strand of DNA | 1-1 mapping, reversing a sequence, antiparallel DNA binding
@@ -19,3 +19,4 @@ FIB | Rabbits and Recurrence Relations | Indentaion for loops, dynamic programmi
 GC | Computing GC Content | Comparison loops, significant figurers
 HAMM | Counting Point Mutations | Zip function, Hamming distance, parsimony 
 IPRB | Mendel's First Law | Mendel's law of segregation, random variables, probability
+PROT | Translating RNA to Protein | Codon dictionary, loop, slicing
