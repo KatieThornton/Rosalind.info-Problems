@@ -21,3 +21,4 @@ HAMM | Counting Point Mutations | Zip function, Hamming distance, parsimony
 IPRB | Mendel's First Law | Mendel's law of segregation, random variables, probability
 PROT | Translating RNA to Protein | Codon dictionary, loop, slicing
 SUBS | Finding a Motif in DNA | slicing, list, 0-based numbering
+CONS | Consensus and Profile | strip, nested loops, enumerate, lambda, raise valueerror, continue 
