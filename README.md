@@ -20,7 +20,8 @@ GC | Computing GC Content | Comparison loops, significant figurers
 HAMM | Counting Point Mutations | Zip function, Hamming distance, parsimony 
 IPRB | Mendel's First Law | Mendel's law of segregation, random variables, probability
 PROT | Translating RNA to Protein | Codon dictionary, loop, slicing
-SUBS | Finding a Motif in DNA | slicing, list, 0-based numbering
-CONS | Consensus and Profile | strip, nested loops, enumerate, lambda, raise valueerror, continue 
-FIBD | Mortal Fibonacci Rabbits | shifting values of a list, indexs 
-GRPH | Overlap Graphs | introduced to graph theory, negative index
+SUBS | Finding a Motif in DNA | Slicing, list, 0-based numbering
+CONS | Consensus and Profile | Strip, nested loops, enumerate, lambda, raise valueerror, continue 
+FIBD | Mortal Fibonacci Rabbits | Shifting values of a list, indexs 
+GRPH | Overlap Graphs | Introduced to graph theory, negative index
+IEV | Calculating Expected Offspring | Expected value, adding comments in python 
