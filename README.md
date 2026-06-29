@@ -25,3 +25,4 @@ CONS | Consensus and Profile | Strip, nested loops, enumerate, lambda, raise val
 FIBD | Mortal Fibonacci Rabbits | Shifting values of a list, indexs 
 GRPH | Overlap Graphs | Introduced to graph theory, negative index
 IEV | Calculating Expected Offspring | Expected value, adding comments in python 
+LCSM | Finding a Shared Motif | Binary search, all() function
